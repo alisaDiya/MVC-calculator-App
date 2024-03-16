@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\calculator (adt).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\calculator (adt).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\controllers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\controllers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\calculator (adt).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\calculator (adt).csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|c:\\users\\alisa\\source\\repos\\calculator (adt)\\calculator (adt)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFCBB64-6D24-45A9-B042-78A2ACE0DF84}|calculator (ADT)\\calculator (ADT).csproj|solutionrelative:calculator (adt)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "calculator (ADT)\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T17:52:23.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "calculator (ADT)\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T17:52:25.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "calculator (ADT)\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T17:52:28.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "calculator (ADT)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T17:13:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator (ADT)",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\calculator (ADT).csproj",
+              "RelativeDocumentMoniker": "calculator (ADT)\\calculator (ADT).csproj",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\calculator (ADT).csproj",
+              "RelativeToolTip": "calculator (ADT)\\calculator (ADT).csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T17:55:51.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Program.cs",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Program.cs",
+              "RelativeToolTip": "calculator (ADT)\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:56:35.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\appsettings.json",
+              "RelativeDocumentMoniker": "calculator (ADT)\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\appsettings.json",
+              "RelativeToolTip": "calculator (ADT)\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T17:54:43.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "calculator (ADT)\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\appsettings.Development.json",
+              "RelativeToolTip": "calculator (ADT)\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T17:55:34.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "calculator (ADT)",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\calculator (ADT).csproj",
+              "RelativeDocumentMoniker": "calculator (ADT)\\calculator (ADT).csproj",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\calculator (ADT).csproj",
+              "RelativeToolTip": "calculator (ADT)\\calculator (ADT).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-16T17:54:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "calculator (ADT)\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "calculator (ADT)\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAuwDcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-16T17:52:57.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Controllers\\calculator.cs",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Controllers\\calculator.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Controllers\\calculator.cs",
+              "RelativeToolTip": "calculator (ADT)\\Controllers\\calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:22:48.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "calculator (ADT)\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:48:04.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "calculator (ADT)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alisa\\source\\repos\\calculator (ADT)\\calculator (ADT)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "calculator (ADT)\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T17:47:46.345Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

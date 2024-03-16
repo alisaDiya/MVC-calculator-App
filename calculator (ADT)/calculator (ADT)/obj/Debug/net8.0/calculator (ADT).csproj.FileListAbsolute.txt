@@ -1,0 +1,30 @@
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\appsettings.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).staticwebassets.runtime.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).exe
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).deps.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).runtimeconfig.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).dll
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\bin\Debug\net8.0\calculator (ADT).pdb
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).AssemblyInfoInputs.cache
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).AssemblyInfo.cs
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).csproj.CoreCompileInputs.cache
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).RazorAssemblyInfo.cache
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).RazorAssemblyInfo.cs
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets\msbuild.calculator (ADT).Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets\msbuild.build.calculator (ADT).props
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.calculator (ADT).props
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.calculator (ADT).props
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\scopedcss\bundle\calculator (ADT).styles.css
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\scopedcss\projectbundle\calculator (ADT).bundle.scp.css
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).dll
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\refint\calculator (ADT).dll
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).pdb
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\calculator (ADT).genruntimeconfig.cache
+C:\Users\alisa\source\repos\calculator (ADT)\calculator (ADT)\obj\Debug\net8.0\ref\calculator (ADT).dll
